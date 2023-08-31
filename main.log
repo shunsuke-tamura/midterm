@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.8.31)  31 AUG 2023 13:06
+This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.8.31)  31 AUG 2023 15:44
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -33,57 +33,93 @@ LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 \heisei=\count193
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/secdot/secdot.sty
 Package: secdot 2000/06/20 v1.0 section numbers with dots
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/listings.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+\lst@mode=\count194
+\lst@gtempboxa=\box68
+\lst@token=\toks19
+\lst@length=\count195
+\lst@currlwidth=\dimen159
+\lst@column=\count196
+\lst@pos=\count197
+\lst@lostspace=\dimen160
+\lst@width=\dimen161
+\lst@newlines=\count198
+\lst@lineno=\count199
+\lst@maxwidth=\dimen162
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count266
+\lst@skipnumbers=\count267
+\lst@framebox=\box69
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/jvlisting/jvlisting.sty
+Package: jvlisting 2011/11/17 v0.7 Formatted Program Listings
+\jvl@idt=\count268
+\jvl@tmphyphenchar=\count269
+\jvl@fileinput=\read2
+\listingskipamount=\skip50
+\listingindent=\dimen163
+\prelistingpenalty=\count270
+\listingpenalty=\count271
+\postlistingpenalty=\count272
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
-\l__pdf_internal_box=\box68
-\g__pdf_backend_object_int=\count194
-\l__pdf_backend_content_box=\box69
-\l__pdf_backend_model_box=\box70
-\g__pdf_backend_annotation_int=\count195
-\g__pdf_backend_link_int=\count196
-\g__pdf_backend_link_sf_int=\count197
+\l__pdf_internal_box=\box70
+\g__pdf_backend_object_int=\count273
+\l__pdf_backend_content_box=\box71
+\l__pdf_backend_model_box=\box72
+\g__pdf_backend_annotation_int=\count274
+\g__pdf_backend_link_int=\count275
+\g__pdf_backend_link_sf_int=\count276
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+\c@lstlisting=\count277
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 33.
+(Font)              <12> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <6> on input line 34.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 39.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 39.
-
-Underfull \hbox (badness 1077) in paragraph at lines 119--120
-[]\OT1/cmr/m/n/10 D. Provan, ``Re-quest for com-ments 1234: Tun-
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 119--120
-\OT1/cmr/m/n/10 nel-ing IPX traf-fic through IP net-works,'' IETF,
- []
-
-[1
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 55.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 55.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 83.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 83.
+ [1
 
 
 ] (./main.aux)
@@ -94,12 +130,12 @@ L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 557 strings out of 475592
- 10200 string characters out of 5774924
- 1925643 words of memory out of 5000000
- 22172 multiletter control sequences out of 15000+600000
- 567517 words of font info for 73 fonts, out of 8000000 for 9000
+ 2308 strings out of 475592
+ 34293 string characters out of 5774924
+ 1928643 words of memory out of 5000000
+ 23901 multiletter control sequences out of 15000+600000
+ 568160 words of font info for 75 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 35i,8n,50p,187b,267s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 41i,8n,51p,357b,1240s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.dvi (1 page, 2540 bytes).
+Output written on main.dvi (1 page, 7044 bytes).
