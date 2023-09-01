@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.8.31)  31 AUG 2023 15:44
+This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.8.31)  1 SEP 2023 12:23
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -132,10 +132,10 @@ L3 programming layer <2023-08-29>
 Here is how much of TeX's memory you used:
  2308 strings out of 475592
  34293 string characters out of 5774924
- 1928643 words of memory out of 5000000
+ 1927643 words of memory out of 5000000
  23901 multiletter control sequences out of 15000+600000
  568160 words of font info for 75 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  41i,8n,51p,357b,1240s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.dvi (1 page, 7044 bytes).
+Output written on main.dvi (1 page, 7048 bytes).
