@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.8.31)  8 SEP 2023 19:15
+This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.8.31)  14 SEP 2023 08:49
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -113,14 +113,14 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 54.
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 82.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 83.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 82.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 83.
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
 []\OT1/cmr/m/n/10 l/20230427/k10014051061000.html) \JY1/mc/m/n/10 閲覧日
  []
 
@@ -137,10 +137,10 @@ L3 programming layer <2023-08-29>
 Here is how much of TeX's memory you used:
  2308 strings out of 475592
  34293 string characters out of 5774924
- 1927643 words of memory out of 5000000
+ 1928643 words of memory out of 5000000
  23901 multiletter control sequences out of 15000+600000
  568160 words of font info for 75 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 41i,8n,51p,353b,1240s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 41i,8n,51p,312b,1240s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.dvi (1 page, 6900 bytes).
+Output written on main.dvi (1 page, 7388 bytes).
