@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.8.31)  14 SEP 2023 08:49
+This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.8.31)  16 SEP 2023 10:13
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -113,15 +113,15 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 54.
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 83.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 82.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 83.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 82.
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
-[]\OT1/cmr/m/n/10 l/20230427/k10014051061000.html) \JY1/mc/m/n/10 閲覧日
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+[]\OT1/cmr/m/n/10 l/20230427/k10014051061000.html)\JY1/mc/m/n/10 ，  閲覧日
  []
 
 [1
@@ -143,4 +143,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  41i,8n,51p,312b,1240s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.dvi (1 page, 7388 bytes).
+Output written on main.dvi (1 page, 7428 bytes).
